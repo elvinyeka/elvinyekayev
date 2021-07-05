@@ -44,7 +44,7 @@
 <img align="left" alt="elvin githun stats" src="https://github-readme-stats.vercel.app/api?username=elvinyeka&show_icons=true&hide_border=true&theme=vue-dark">
 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=elvinyeka&repo=github-readme-stats)](https://github.com/elvinyeka/Covid-Homepage)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=elvinyeka&repo=Covid-Homepage)](https://github.com/elvinyeka/Covid-Homepage)
 
 
 
