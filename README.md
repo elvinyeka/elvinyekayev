@@ -39,6 +39,10 @@
 <img align="left" alt="python" width="22px" height="22px" src="img/python.svg" />
 <img align="left" alt="flask" width="40px" height="22px" src="img/flask.svg" />
 
+---
+
+<img align="left" alt="elvin githun stats" src="https://github-readme-stats.vercel.app/api?username=elvinyeka&show_icons=true&hide_border=true&theme=vue-dark">
+
 
 
 
