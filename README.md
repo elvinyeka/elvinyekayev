@@ -5,6 +5,8 @@
 - 🌱 I’m currently learning everything
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to read a book
+- 📫 How to reach me: [elvinyeka@gmail.com](https://elvinyeka@gmail.com)
+- ✍️ My Website: [elvin-yekayev.herokuapp.com](https://elvin-yekayev.herokuapp.com/)
 
 ---
 
