@@ -22,20 +22,24 @@
 
 ### Language and tools:
 
-<img align="left" alt="vscode" width="22px" height="22px" src="img/vscode.svg" />
-<img align="left" alt="html5" width="22px" height="22px" src="img/html-5.svg" />
-<img align="left" alt="css3" width="22px" height="22px" src="img/css-3.svg" />
-<img align="left" alt="sass" width="22px" height="22px" src="img/sass.svg" />
-<img align="left" alt="js" width="22px" height="22px" src="img/js.png" />
-<img align="left" alt="json" width="22px" height="22px" src="img/json.png" />
-<img align="left" alt="jquery" width="22px" height="22px" src="img/jquery.png" />
-<img align="left" alt="react" width="22px" height="22px" src="img/atom.svg" />
-<img align="left" alt="gulp" width="22px" height="22px" src="img/gulp.svg" />
-<img align="left" alt="webpack" width="22px" height="22px" src="img/webpack.svg" />
-<img align="left" alt="git" width="22px" height="22px" src="img/git.svg" />
-<img align="left" alt="github" width="22px" height="22px" src="img/github.svg" />
-<img align="left" alt="terminal" width="22px" height="22px" src="img/cmd-terminal.svg" />
-<img align="left" alt="c" width="22px" height="22px" src="img/c-program.svg" />
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![React](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3)&nbsp;
+![SCSS](https://img.shields.io/badge/-SCSS-05122A?style=flat&logo=SASS)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
+![Jquery](https://img.shields.io/badge/-Jquery-05122A?style=flat&logo=jquery)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![JSON](https://img.shields.io/badge/-json-05122A?style=flat&logo=JSON)&nbsp;
+![GULP](https://img.shields.io/badge/-gulp-05122A?style=flat&logo=Gulp)&nbsp;
+![WEBPACK](https://img.shields.io/badge/-webpack-05122A?style=flat&logo=WEBPACK)&nbsp;
+![C](https://img.shields.io/badge/-C--language-%2305122A?style=flat&logo=C)&nbsp;
+![TERMINAL](https://img.shields.io/badge/-teminal-%2305122A?style=flat&logo=Windows%20Terminal)&nbsp;
+![PYTHON](https://img.shields.io/badge/-python-%2305122A?style=flat&logo=python)&nbsp;
+![FLASK](https://img.shields.io/badge/-flask-%2305122A?style=flat&logo=flask)&nbsp;
+
+
 <img align="left" alt="python" width="22px" height="22px" src="img/python.svg" />
 <img align="left" alt="flask" width="40px" height="22px" src="img/flask.svg" />
 <br />
