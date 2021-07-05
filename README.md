@@ -57,7 +57,8 @@
 
 <br />
 
-[![Elvins's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@ElvinYeka&layout=compact)](https://github.com/elvinyeka/elvinyeka)
+[![elvin's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@ElvinYeka)](https://github.com/elvinyeka/elvinyeka)
+
 
 
 
