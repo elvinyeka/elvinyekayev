@@ -10,12 +10,12 @@
 
 ### Connect with me:
 
-[<img align="left" alt="elvin-yekayev.herokuapp.com" width="22px"  src="img/Letter-E.png" />](https://elvin-yekayev.herokuapp.com/)
-[<img align="left" alt="facebook" width="22px" src="img/facebook.svg" />](https://www.facebook.com/profile.php?id=100009894554730)
-[<img align="left" alt="linkedin" width="22px" height="22px" src="img/linkedin.svg" />](https://www.linkedin.com/in/elvin-yekayev-772870168/) 
-[<img align="left" alt="medium" width="22px" height="22px" src="img/medium.svg" />](https://elvinyeka.medium.com/)
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" height="22px" src="img/github-square.svg" />](https://github.com/elvinyeka)
-[<img align="left" alt="codepen" width="22px" height="22px" src="img/codepen.svg" />](https://codepen.io/ElvinYeka)
+<!-- [<img align="left" alt="elvin-yekayev.herokuapp.com" width="22px"  src="img/Letter-E.png" />](https://elvin-yekayev.herokuapp.com/) -->
+[<img align="left" alt="facebook" src="https://img.shields.io/badge/-Facebook-%2305122A?style=flat&logo=Facebook" />](https://www.facebook.com/profile.php?id=100009894554730)
+[<img align="left" alt="linkedin" height="22px" src="https://img.shields.io/badge/-LinkedIn-%2305122A?style=flat&logo=Linkedin" />](https://www.linkedin.com/in/elvin-yekayev-772870168/) 
+[<img align="left" alt="medium" height="22px" src="https://img.shields.io/badge/-Medium-%2305122A?style=flat&logo=Medium" />](https://elvinyeka.medium.com/)
+[<img align="left" alt="github"  src="https://img.shields.io/badge/-GitHub-%2305122A?style=flat&logo=GitHub" />](https://github.com/elvinyeka)
+[<img align="left" alt="codepen"  height="22px" src="https://img.shields.io/badge/-CodePen-%2305122A?style=flat&logo=CodePen" />](https://codepen.io/ElvinYeka)
 
 <br />
 <br />
@@ -39,10 +39,6 @@
 ![PYTHON](https://img.shields.io/badge/-python-%2305122A?style=flat&logo=python)&nbsp;
 ![FLASK](https://img.shields.io/badge/-flask-%2305122A?style=flat&logo=flask)&nbsp;
 
-
-<img align="left" alt="python" width="22px" height="22px" src="img/python.svg" />
-<img align="left" alt="flask" width="40px" height="22px" src="img/flask.svg" />
-<br />
 
 
 ---
