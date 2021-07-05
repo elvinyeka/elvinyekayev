@@ -40,14 +40,21 @@
 <img align="left" alt="flask" width="40px" height="22px" src="img/flask.svg" />
 
 ---
+<br />
 
 <img align="left" alt="elvin githun stats" src="https://github-readme-stats.vercel.app/api?username=elvinyeka&show_icons=true&hide_border=true&theme=vue-dark">
 
 <!-- Extra Pins -->
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=elvinyeka&repo=Covid-Homepage)](https://github.com/elvinyeka/Covid-Homepage) -->
 
+<br />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elvinyeka&langs_count=8&layout=compact)](https://github.com/elvinyeka/elvinyeka)
+
+<br />
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=elvinyeka)](https://github.com/elvinyeka/elvinyeka)
+
 
 
 
