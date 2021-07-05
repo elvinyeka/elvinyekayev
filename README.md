@@ -39,6 +39,8 @@
 <img align="left" alt="python" width="22px" height="22px" src="img/python.svg" />
 <img align="left" alt="flask" width="40px" height="22px" src="img/flask.svg" />
 
+<br />
+
 ---
 
 ### 📕 Latest Blog Posts
