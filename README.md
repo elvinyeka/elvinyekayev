@@ -50,7 +50,7 @@
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=elvinyeka&repo=Covid-Homepage)](https://github.com/elvinyeka/Covid-Homepage) -->
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elvinyeka&langs_count=10)](https://github.com/elvinyeka/elvinyeka)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elvinyeka&langs_count=10&layout=compact)](https://github.com/elvinyeka/elvinyeka)
 
 <br />
 
