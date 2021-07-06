@@ -2,7 +2,7 @@
 
 ### I'm a  freelancer front-end developer!
 
-- 🌱 I’m currently learning everything
+- 🌱 I’m currently learning everything about programming
 - 🖥️ I’m currently work from Home
 - 🥅 2021 Goals: Contribute more projects
 - ⚡ Fun fact: I love to read a book
