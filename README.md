@@ -48,6 +48,8 @@
 
 ---
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elvinyeka&langs_count=6)](https://github.com/elvinyeka/elvinyeka)
+
 <img align="left" alt="elvin githun stats" src="https://github-readme-stats.vercel.app/api?username=elvinyeka&show_icons=true&hide_border=true&theme=vue-dark">
 
 
@@ -55,7 +57,7 @@
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=elvinyeka&repo=Covid-Homepage)](https://github.com/elvinyeka/Covid-Homepage) -->
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elvinyeka&langs_count=10&layout=compact)](https://github.com/elvinyeka/elvinyeka)
+
 
 <br />
 
