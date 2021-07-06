@@ -25,36 +25,36 @@
 <br />
 <br />
 
-### Language and tools:
+### 🛠 &nbsp;Tech Stack:
 
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+- 🌐 &nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=for-the-badge&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=for-the-badge&logo=CSS3)&nbsp;
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=for-the-badge&logo=bootstrap&logoColor=563D7C)&nbsp;
 ![SCSS](https://img.shields.io/badge/-SCSS-05122A?style=for-the-badge&logo=SASS)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=for-the-badge&logo=javascript)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=for-the-badge&logo=react)&nbsp;
 ![Jquery](https://img.shields.io/badge/-Jquery-05122A?style=for-the-badge&logo=jquery)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=for-the-badge&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=for-the-badge&logo=github)&nbsp;
-![JSON](https://img.shields.io/badge/-json-05122A?style=for-the-badge&logo=JSON)&nbsp;
-![GULP](https://img.shields.io/badge/-gulp-05122A?style=for-the-badge&logo=Gulp)&nbsp;
-![WEBPACK](https://img.shields.io/badge/-webpack-05122A?style=for-the-badge&logo=WEBPACK)&nbsp;
-![C](https://img.shields.io/badge/-C--language-%2305122A?style=for-the-badge&logo=C)&nbsp;
-![TERMINAL](https://img.shields.io/badge/-teminal-%2305122A?style=for-the-badge&logo=Windows%20Terminal)&nbsp;
+- 🛢 &nbsp;
 ![PYTHON](https://img.shields.io/badge/-python-%2305122A?style=for-the-badge&logo=python)&nbsp;
 ![FLASK](https://img.shields.io/badge/-flask-%2305122A?style=for-the-badge&logo=flask)&nbsp;
-
-
+![C](https://img.shields.io/badge/-C--language-%2305122A?style=for-the-badge&logo=C)&nbsp;
+![JSON](https://img.shields.io/badge/-json-05122A?style=for-the-badge&logo=JSON)&nbsp;
+- ⚙️ &nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=for-the-badge&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=for-the-badge&logo=github)&nbsp;
+![GULP](https://img.shields.io/badge/-gulp-05122A?style=for-the-badge&logo=Gulp)&nbsp;
+![WEBPACK](https://img.shields.io/badge/-webpack-05122A?style=for-the-badge&logo=WEBPACK)&nbsp;
+- 🔧 &nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![TERMINAL](https://img.shields.io/badge/-teminal-%2305122A?style=for-the-badge&logo=Windows%20Terminal)&nbsp;
 
 ---
+<a href="https://github.com/elvinyeka">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=elvinyeka&zsh-theme&show_icons=true&theme=vue-dark" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elvinyeka&zsh-theme&layout=compact&langs_count=10&theme=vue-dark" />
+</a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elvinyeka&langs_count=6)](https://github.com/elvinyeka/elvinyeka)
-
-<img align="left" alt="elvin githun stats" src="https://github-readme-stats.vercel.app/api?username=elvinyeka&show_icons=true&hide_border=true&theme=vue-dark">
-
-
-<!-- Extra Pins -->
-<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=elvinyeka&repo=Covid-Homepage)](https://github.com/elvinyeka/Covid-Homepage) -->
 
 
 
