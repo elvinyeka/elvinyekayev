@@ -58,12 +58,9 @@
 
 <br />
 
-[![elvin's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=elvinyeka)](https://github.com/elvinyeka/elvinyeka)
 
-<!-- ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=elvinyeka&theme=vue)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=elvinyeka&theme=vue) -->
 
-  <img height="181em" src="https://github-readme-stats.vercel.app/api/wakatime?username=@elvinyeka&theme=algolia"/>
+<!--   <img height="181em" src="https://github-readme-stats.vercel.app/api/wakatime?username=@elvinyeka&theme=vue"/> -->
 
 
 
