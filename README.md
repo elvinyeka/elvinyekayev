@@ -57,11 +57,11 @@
 
 
 <br />
-<!-- 
-[![elvin's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ElvinYeka)](https://github.com/elvinyeka/elvinyeka) -->
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=elvinyeka&theme=vue)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=elvinyeka&theme=vue)
+[![elvin's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ElvinYeka)](https://github.com/elvinyeka/elvinyeka)
+
+<!-- ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=elvinyeka&theme=vue)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=elvinyeka&theme=vue) -->
 
 
 
