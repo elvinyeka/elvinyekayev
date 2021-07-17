@@ -7,7 +7,7 @@
 - 🥅 2021 Goals: Contribute more projects
 - ⚡ Fun fact: I love to read a book
 - 📫 How to reach me: elvinyeka@gmail.com
-- ✍️ My Website: [elvin-yekayev.herokuapp.com](https://elvin-yekayev.herokuapp.com/)
+- ✍️ My Website: [https://elvindev.com/](https://elvindev.com/)
 
 ---
 
