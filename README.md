@@ -20,7 +20,7 @@
 [<img align="left" alt="medium" height="22px" src="https://img.shields.io/badge/-Medium-%2305122A?style=sosial&logo=Medium" />](https://elvinyeka.medium.com/)
 [<img align="left" alt="github"  src="https://img.shields.io/badge/-GitHub-%2305122A?style=sosial&logo=GitHub" />](https://github.com/elvinyeka)
 [<img align="left" alt="codepen"  height="22px" src="https://img.shields.io/badge/-CodePen-%2305122A?style=sosial&logo=CodePen" />](https://codepen.io/ElvinYeka)
-[<img align="left" alt="facebook" src="https://img.shields.io/badge/PortfolioWebSite-elvin--yekayev.herokuapp.com-%2305122A?style=sosial&logo=Google%20Chrome" />](https://elvin-yekayev.herokuapp.com/)
+[<img align="left" alt="facebook" src="https://img.shields.io/badge/PortfolioWebSite-elvindev.com-%2305122A?style=sosial&logo=Google%20Chrome" />](https://elvindev.com/)
 
 <br />
 <br />
