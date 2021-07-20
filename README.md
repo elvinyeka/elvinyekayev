@@ -1,4 +1,4 @@
-### Hello I'm [Elvin Yekayev](https://elvin-yekayev.herokuapp.com/) 👋
+### Hello I'm [Elvin Yekayev](https://elvindev.com/) 👋
 
 ### I'm a  freelancer front-end developer!
 
@@ -7,13 +7,11 @@
 - 🥅 2021 Goals: Contribute more projects
 - ⚡ Fun fact: I love to read a book
 - 📫 How to reach me: elvinyeka@gmail.com
-- ✍️ My Website: [https://elvindev.com/](https://elvindev.com/)
+- ✍️ My Website: [elvindev.com](https://elvindev.com/)
 
 ---
 
 ### Connect with me:
-
-<!-- [<img align="left" alt="elvin-yekayev.herokuapp.com" width="22px"  src="img/Letter-E.png" />](https://elvin-yekayev.herokuapp.com/) -->
 
 [<img align="left" alt="facebook" src="https://img.shields.io/badge/-Facebook-%2305122A?style=sosial&logo=Facebook" />](https://www.facebook.com/profile.php?id=100009894554730)
 [<img align="left" alt="linkedin" height="22px" src="https://img.shields.io/badge/-LinkedIn-%2305122A?style=sosial&logo=Linkedin" />](https://www.linkedin.com/in/elvin-yekayev-772870168/) 
@@ -60,7 +58,7 @@
 
 
 
-<!--   <img height="181em" src="https://github-readme-stats.vercel.app/api/wakatime?username=@elvinyeka&theme=vue"/> -->
+  <img height="181em" src="https://github-readme-stats.vercel.app/api/wakatime?username=@elvinyeka&theme=vue"/>
 
 
 
