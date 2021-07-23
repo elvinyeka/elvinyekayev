@@ -49,7 +49,7 @@
 
 ---
 
-  <img width="920em"  src="https://github-readme-codewars-stats.herokuapp.com/api/?username=elvinyeka&badge&customcolor=bg:193549_fg:262729_text:74EDB1_logo:BB432C_stroke:ECB630" />
+  <img width="460em"  src="https://github-readme-codewars-stats.herokuapp.com/api/?username=elvinyeka&badge&customcolor=bg:193549_fg:262729_text:74EDB1_logo:BB432C_stroke:ECB630" />
 
 
 <a href="https://github.com/elvinyeka">
