@@ -48,15 +48,19 @@
 ![TERMINAL](https://img.shields.io/badge/-teminal-%2305122A?style=for-the-badge&logo=Windows%20Terminal)&nbsp;
 
 ---
+
+  <img width="920em"  src="https://github-readme-codewars-stats.herokuapp.com/api/?username=elvinyeka&badge&customcolor=bg:193549_fg:262729_text:74EDB1_logo:BB432C_stroke:ECB630" />
+
+
 <a href="https://github.com/elvinyeka">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=elvinyeka&zsh-theme&show_icons=true&theme=vue-dark" />
-  <img height="180em" src="https://github-readme-codewars-stats.herokuapp.com/api/?username=elvinyeka&card&colormode=dark_mode" />
+  <img height="300em"  src="https://github-readme-stats.vercel.app/api/wakatime?username=@elvinyeka&theme=cobalt&v=2"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=elvinyeka&zsh-theme&show_icons=true&theme=vue-dark" /> 
 </a>
 
 ---
 
 <a>
-  <img height="250em"  src="https://github-readme-stats.vercel.app/api/wakatime?username=@elvinyeka&theme=cobalt&v=2"/>
+  
 </a>
 
 
