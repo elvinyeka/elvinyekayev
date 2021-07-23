@@ -50,15 +50,14 @@
 ---
 <a href="https://github.com/elvinyeka">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=elvinyeka&zsh-theme&show_icons=true&theme=vue-dark" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elvinyeka&zsh-theme&layout=compact&langs_count=10&theme=vue-dark" />
+  <img height="180em" src="https://github-readme-codewars-stats.herokuapp.com/api/?username=vanhaaggen&card&colormode=dark_mode" />
 </a>
 
 
-<br />
-
-
-
+<a>
   <img height="250em"  src="https://github-readme-stats.vercel.app/api/wakatime?username=@elvinyeka&theme=cobalt&v=2"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elvinyeka&zsh-theme&layout=compact&langs_count=10&theme=vue-dark" />
+</a>
 
 
 
