@@ -57,7 +57,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=elvinyeka&zsh-theme&show_icons=true&theme=vue-dark" /> 
 </a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=@elvinyeka&theme=cobalt&v=2&layout=compact)](https://github.com/elvinyeka/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elvinyeka&theme=cobalt&v=2&layout=compact)](https://github.com/elvinyeka/github-readme-stats)
 
 ---
 
