@@ -53,11 +53,11 @@
 
 
 <a href="https://github.com/elvinyeka">
-  <img height="300em"  src="https://github-readme-stats.vercel.app/api/wakatime?username=@elvinyeka&langs_count=10&theme=cobalt&v=2"/>
+  <img height="300em"  src="https://github-readme-stats.vercel.app/api/wakatime?username=@elvinyeka&langs_count=15&theme=cobalt&v=2"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=elvinyeka&zsh-theme&show_icons=true&theme=vue-dark" /> 
 </a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elvinyeka&theme=cobalt&v=2&langs_count=10)](https://github.com/elvinyeka/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elvinyeka&theme=cobalt&v=2&langs_count=10)](https://github.com/elvinyeka/github-readme-stats) -->
 
 ---
 
